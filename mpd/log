@@ -1,0 +1,52 @@
+Sep 26 07:47 : exception: Failed to access /home/mayowa/music: No such file or directory
+Sep 26 07:47 : avahi: Service 'Music Player @ mayowa-xps' successfully established.
+Sep 26 07:49 : avahi: Service 'Music Player @ mayowa-xps' successfully established.
+Sep 26 07:51 : avahi: Service 'Music Player @ mayowa-xps' successfully established.
+Sep 26 07:59 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Sep 26 07:59 : avahi: Service 'Music Player @ mayowa-xps' successfully established.
+Sep 26 08:27 : avahi: Service 'Music Player @ mayowa-xps' successfully established.
+Sep 26 08:27 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Sep 26 08:41 : avahi: Service 'Music Player @ mayowa-xps' successfully established.
+Sep 26 08:41 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Sep 26 08:42 : avahi: Service 'Music Player @ mayowa-xps' successfully established.
+Sep 26 08:42 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Sep 26 08:46 : avahi: Service 'Music Player @ mayowa-xps' successfully established.
+Sep 26 08:46 : exception: Unsupported URI scheme
+Sep 26 08:46 : exception: Failed to read mixer for 'default detected output': no such mixer control: PCM
+Sep 26 08:46 : exception: Failed to open /home/mayowa/.config/mpd/playlists: No such file or directory
+Sep 26 08:46 : exception: Failed to open '/home/mayowa/.config/mpd/playlists/[Radio Streams].m3u': No such file or directory
+Sep 26 08:46 : exception: No such playlist
+Sep 26 08:59 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 26 09:07 : player: played "http://127.0.0.1:35731/home/mayowa/Music/taikutsu.mp3?time=126&id=-1&cantata=song"
+Sep 26 09:07 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 26 09:07 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 26 09:07 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 26 09:09 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 26 09:14 : player: played "http://127.0.0.1:35731/home/mayowa/Music/taikutsu.mp3?time=126&id=-1&cantata=song"
+Sep 26 09:14 : exception: Unsupported URI scheme
+Sep 26 09:14 : exception: Failed to open /home/mayowa/.config/mpd/playlists: No such file or directory
+Sep 26 09:14 : exception: Failed to open /home/mayowa/.config/mpd/playlists: No such file or directory
+Sep 26 09:14 : exception: Failed to open '/home/mayowa/.config/mpd/playlists/[Radio Streams].m3u': No such file or directory
+Sep 26 09:14 : exception: No such playlist
+Sep 26 09:14 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 26 10:25 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 26 11:00 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 26 11:00 : player: played "http://127.0.0.1:35731/home/mayowa/Music/taikutsu.mp3?time=126&id=-1&cantata=song"
+Sep 26 11:00 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 26 11:00 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 26 11:02 : player: played "http://127.0.0.1:35731/home/mayowa/Music/taikutsu.mp3?time=126&id=-1&cantata=song"
+Sep 26 11:02 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 26 11:02 : player: played "http://127.0.0.1:35731/home/mayowa/Music/taikutsu.mp3?time=126&id=-1&cantata=song"
+Sep 26 11:02 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 26 11:05 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 26 11:07 : player: played "http://127.0.0.1:35731/home/mayowa/Music/taikutsu.mp3?time=126&id=-1&cantata=song"
+Sep 26 11:33 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 26 11:33 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 26 12:25 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 26 13:33 : exception: Failed to open /home/mayowa/.config/mpd/playlists: No such file or directory
+Sep 26 13:33 : exception: Failed to open '/home/mayowa/.config/mpd/playlists/[Radio Streams].m3u': No such file or directory
+Sep 26 13:33 : exception: No such playlist
+Sep 26 14:02 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 26 14:03 : player: played "http://127.0.0.1:35731/home/mayowa/Music/taikutsu.mp3?time=126&id=-1&cantata=song"
+Sep 26 15:08 : exception: Failed to open mixer for 'default detected output': no such mixer control: PCM
+Sep 26 15:08 : player: played "http://127.0.0.1:35731/home/mayowa/Music/taikutsu.mp3?time=126&id=-1&cantata=song"
